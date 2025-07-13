@@ -4,7 +4,7 @@ Given a number n and a value k. From the right, set the kth bit in the binary re
 
 package S03_Bit_Magic;
 
-public class SetKth {
+public class SetBit {
     static int setKthBit(int n, int k) {
         // code here
     return n | (1 << k);
