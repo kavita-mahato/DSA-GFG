@@ -4,7 +4,7 @@ Print numbers from N to 1 (space separated) without the help of loops.
 
 package S04_Recursion;
 
-public class PrintNto1 {
+public class printNto1 {
     static void printNos(int N) {
         // code here
         if (N == 0) {

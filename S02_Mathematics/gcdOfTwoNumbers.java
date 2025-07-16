@@ -4,7 +4,7 @@ Note: Don't use the inbuilt gcd function
 
 package S02_Mathematics;
 
-public class GcdOfTwoNumbers {
+public class gcdOfTwoNumbers {
 
     public static int gcd(int a, int b) {
         // code here

@@ -5,7 +5,7 @@ Note: The first two numbers of the series are 0 and 1.
 
 package S02_Mathematics;
 
-public class FirstNfibonacci {
+public class firstNfibonacci {
     public static int[] fibonacciNumbers(int n) {
         // Your code here
          int[] fib = new int[n];
