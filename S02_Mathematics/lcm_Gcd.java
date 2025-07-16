@@ -19,7 +19,7 @@ class Solution {
 
 package S02_Mathematics;
 
-public class lcmAndGcd {
+public class lcm_Gcd {
 
     public static int[] lcmAndGcd(int a, int b) {
         int gcdValue = Gcd(a, b);
