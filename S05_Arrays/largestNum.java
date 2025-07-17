@@ -1,5 +1,3 @@
-package S05_Arrays;
-
 public class largestNum {
     public static int largest(int[] arr) {
         // code here

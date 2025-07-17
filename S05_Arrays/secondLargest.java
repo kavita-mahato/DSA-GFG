@@ -1,5 +1,3 @@
-package S05_Arrays;
-
 public class secondLargest {
     public int getSecondLargest(int[] arr) {
         // code here

@@ -1,5 +1,3 @@
-package S05_Arrays;
-
 public class hasPeakElement {
     public int peakElement(int[] arr) {
         // code here

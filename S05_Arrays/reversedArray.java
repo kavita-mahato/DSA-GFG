@@ -1,5 +1,3 @@
-package S05_Arrays;
-
 public class reversedArray {
     public void reverseArray(int arr[]) {
         // code here

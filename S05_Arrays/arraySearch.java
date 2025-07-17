@@ -1,5 +1,3 @@
-package S05_Arrays;
-
 public class arraySearch {
     static int search(int arr[], int x) {
         // code here
