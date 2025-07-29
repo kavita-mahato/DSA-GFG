@@ -3,7 +3,7 @@ package S03_Bit_Magic;
 public class longestConsecutive {
     public static int maxConsecutiveOnes(int n) {
         // code here
-        String binary = Integer.toBinaryString(n);  // Convert to binary string
+        String binary = Integer.toBinaryString(n);  // Convert integer to binary string
         int maxCount = 0;
         int currentCount = 0;
 
