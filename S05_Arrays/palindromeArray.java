@@ -1,5 +1,3 @@
-package S05_Arrays;
-
 public class palindromeArray {
     public static boolean isPerfect(int[] arr) {
         // code here
