@@ -1,25 +1,31 @@
 import java.util.ArrayList;
 
 public class missingRepeating {
-    public boolean checkDuplicatesWithinK(int[] arr, int k) {
-        // your code
-        ArrayList<Integer> set = new ArrayList<>();
+    ArrayList<Integer> findTwoElement(int arr[]) {
+        // code here
+        ArrayList<Integer> result = new ArrayList<>();
+        int duplicate = -1, missing = -1;
 
         for (int i = 0; i < arr.length; i++) {
-            // If current element exists in k distance
-            if (set.contains(arr[i])) {
-                return true;
-            }
-
-            // Add current element to the set
-            set.add(arr[i]);
-
-            // Maintain set size = k
-            if (set.size() > k) {
-                set.remove(0);  // Remove the index=0 element
+            int index = Math.abs(arr[i]) - 1;
+            if (arr[index] < 0) {
+                // Already visited => mark duplicate
+                duplicate = Math.abs(arr[i]);
+            } else {
+                // Mark visited
+                arr[index] = -arr[index];
             }
         }
-
-        return false;
+        
+        // Find the index which is not visited => mark missing
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] > 0) {
+                missing = i + 1;
+                break;
+            }
+        }
+        result.add(duplicate);
+        result.add(missing);
+        return result;
     }
 }
