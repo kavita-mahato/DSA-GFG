@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class mergeWithoutExtra {
     public void mergeArrays(int a[], int b[]) {
         // code here
