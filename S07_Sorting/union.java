@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class union {
     public static ArrayList<Integer> findUnion(int a[], int b[]) {
         // code here
