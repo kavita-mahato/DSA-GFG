@@ -1,7 +1,5 @@
 /* Given an unsigned integer n, You have  to swap all even-position bits with their rightside adjacent odd-position bits. */
 
-package S03_Bit_Magic;
-
 public class swapEvenOddBits {
     public static int swapBits(int n) {
         // code here

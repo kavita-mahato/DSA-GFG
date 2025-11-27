@@ -1,5 +1,3 @@
-package S03_Bit_Magic;
-
 public class reverseBits {
     static Long reversedBits(Long x) {
         // code here

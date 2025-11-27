@@ -1,5 +1,3 @@
-package S03_Bit_Magic;
-
 public class getOddOccurance {
     int getOddOccurrence(int[] arr) {
         // code here

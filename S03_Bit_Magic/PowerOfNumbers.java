@@ -3,8 +3,6 @@ Given a number n, find the value of n raised to the power of its own reverse.
 Note: The result will always fit into a 32-bit signed integer.
 */
 
-package S03_Bit_Magic;
-
 public class PowerOfNumbers {
     public int reverseExponentiation(int n) {
         // code here

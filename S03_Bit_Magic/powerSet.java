@@ -1,5 +1,3 @@
-package S03_Bit_Magic;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

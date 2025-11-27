@@ -1,5 +1,3 @@
-package S03_Bit_Magic;
-
 public class rightmostSetBit {
     static int posOfRightMostDiffBit(int m, int n) {
         // code here

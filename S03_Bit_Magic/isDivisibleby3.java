@@ -1,5 +1,3 @@
-package S03_Bit_Magic;
-
 public class isDivisibleby3 {
     boolean isDivisible(String s) {
         // code here
