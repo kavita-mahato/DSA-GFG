@@ -1,4 +1,4 @@
-public class TailRecursiveFactorial {
+public class TailRecursivefactorial {
 
     // Tail-recursive helper method
     private static long factTail(long n, long accumulator) {

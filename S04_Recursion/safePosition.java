@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class safePosition {
     public int safePos(int n, int k) {
         // code here

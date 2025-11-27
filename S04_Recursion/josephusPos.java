@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class josephusPos {
     public int josephus(int n, int k) {
         // code here

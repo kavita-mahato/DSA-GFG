@@ -3,8 +3,6 @@ Given an positive integer n, print numbers from 1 to n without using loops.
 Implement the function printTillN() to print the numbers from 1 to n as space-separated integers.
 */
 
-package S04_Recursion;
-
 public class Print1toNwithoutLoop {
      static void printTillN(int N) {
         // code here

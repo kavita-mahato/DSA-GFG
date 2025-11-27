@@ -2,8 +2,6 @@
 Print numbers from N to 1 (space separated) without the help of loops.
 */
 
-package S04_Recursion;
-
 public class printNto1 {
     static void printNos(int N) {
         // code here

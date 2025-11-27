@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class printGFG {
     void printGfg(int N) {
         // code here

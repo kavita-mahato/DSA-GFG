@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class nthFibonacci {
     static int fibonacci(int n) {
         // Code here

@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class countDigit {
     public static int countDigits(int n) {
         // Code here

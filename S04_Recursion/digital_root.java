@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class digital_root{
     public static int digitalRoot(int n) {
         // code here

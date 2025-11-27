@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class sumDigits {
     public static int sumOfDigits(int n) {
         // Code here

@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class tower_Of_Hanoi {
     int count = 0;
     public int towerOfHanoi(int n, int from, int to, int aux) {

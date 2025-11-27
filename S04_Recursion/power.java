@@ -1,5 +1,3 @@
-package S04_Recursion;
-
 public class power {
     static int RecursivePower(int n, int p) {
         // Code here
