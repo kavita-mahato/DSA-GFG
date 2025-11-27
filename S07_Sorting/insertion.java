@@ -1,5 +1,3 @@
-package S07_Sorting;
-
 public class insertion {
     public void insertionSort(int arr[]) {
         // code here

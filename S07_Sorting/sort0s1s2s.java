@@ -1,5 +1,3 @@
-package S07_Sorting;
-
 public class sort0s1s2s {
     public void sort012(int[] arr) {
         // code here

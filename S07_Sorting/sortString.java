@@ -1,5 +1,3 @@
-package S07_Sorting;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
