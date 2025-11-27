@@ -1,5 +1,3 @@
-package S02_Mathematics;
-
 public class recursiveSequence {
     static long sequence(int n) {
         // code here

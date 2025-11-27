@@ -1,8 +1,6 @@
 /* Given a number n, check if the number is perfect or not. A number is said to be perfect if sum of all its factors excluding the number itself is equal to the number.
 */
 
-package S02_Mathematics;
-
 public class PerfectNumber {
     static boolean isPerfect(int n) {
         // code here

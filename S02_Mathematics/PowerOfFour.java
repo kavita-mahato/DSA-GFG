@@ -1,5 +1,3 @@
-package S02_Mathematics;
-
 public class PowerOfFour {
     int isPowerOfFour(long n) {
         // Your code here

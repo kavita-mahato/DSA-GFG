@@ -3,8 +3,6 @@ Given a number n, return an array containing the first n Fibonacci numbers.
 Note: The first two numbers of the series are 0 and 1.
 */
 
-package S02_Mathematics;
-
 public class firstNfibonacci {
     public static int[] fibonacciNumbers(int n) {
         // Your code here

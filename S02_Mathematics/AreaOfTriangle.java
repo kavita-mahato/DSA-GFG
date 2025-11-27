@@ -1,5 +1,3 @@
-package S02_Mathematics;
-
 public class AreaOfTriangle {
     double findArea(int A, int B, int C) {
         // code here

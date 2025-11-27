@@ -1,5 +1,3 @@
-package S02_Mathematics;
-
 public class closestNum {
     static int closestNumber(int n, int m) {
         // code here

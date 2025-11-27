@@ -17,8 +17,6 @@ class Solution {
 }
 */
 
-package S02_Mathematics;
-
 public class lcm_Gcd {
 
     public static int[] lcmAndGcd(int a, int b) {

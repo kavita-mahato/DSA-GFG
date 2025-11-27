@@ -2,8 +2,6 @@
 Note: A prime number is a number greater than 1 that has no positive divisors other than 1 and itself.
 */
 
-package S02_Mathematics;
-
 public class PrimeNumber {
 
     static boolean isPrime(int n) {

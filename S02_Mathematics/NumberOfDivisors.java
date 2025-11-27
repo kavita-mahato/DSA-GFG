@@ -1,7 +1,5 @@
 //Given an integer n, find the number of divisors of n that are divisible by 3
 
-package S02_Mathematics;
-
 public class NumberOfDivisors {
     static int countDivisors(int n) {
         // code here

@@ -2,8 +2,6 @@
 Note: Don't use the inbuilt gcd function
 */
 
-package S02_Mathematics;
-
 public class gcdOfTwoNumbers {
 
     public static int gcd(int a, int b) {

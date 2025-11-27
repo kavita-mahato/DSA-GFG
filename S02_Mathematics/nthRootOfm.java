@@ -2,8 +2,6 @@
 You are given 2 numbers n and m, the task is to find n√m (nth root of m). If the root is not integer then returns -1.
 */
 
-package S02_Mathematics;
-
 public class nthRootOfm {
     public int nthRoot(int n, int m) {
         // code here
