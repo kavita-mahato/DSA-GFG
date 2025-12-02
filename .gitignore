@@ -1,0 +1,21 @@
+# Ignore compiled Java class files
+bin/
+*.class
+
+# Ignore VS Code
+.vscode/
+
+# Ignore common Java build artifacts
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+
+# Ignore IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+out/
